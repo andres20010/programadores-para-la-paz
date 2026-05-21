@@ -5,4 +5,4 @@ También permite trabajar en equipo sin perder información.
 Además, se pueden recuperar versiones anteriores del proyecto. 
 La trazabilidad mejora la organización del desarrollo. 
 Git facilita la colaboración entre desarrolladores. 
-Por eso es una herramienta esencial en el desarrollo de software.
+Por eso es una herramienta, esencial en el desarrollo de software.
